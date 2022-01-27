@@ -50,3 +50,8 @@ body {
   border-radius: 25px;
   background: var(--white);
 }
+
+.attribution {
+  position: absolute;
+  bottom: 10px;
+}
